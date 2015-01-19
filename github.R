@@ -1,5 +1,6 @@
 library(httr)
-library(httr)
+library(httpuv)
+library(RCurl)
 library(rjson)
 
 # 1. Find OAuth settings for github:
