@@ -1,4 +1,6 @@
 library(httr)
+library(httr)
+library(rjson)
 
 # 1. Find OAuth settings for github:
 #    http://developer.github.com/v3/oauth/
