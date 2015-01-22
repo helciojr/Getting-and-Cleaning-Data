@@ -32,8 +32,15 @@ activity and each subject.
 What you find in this repository
 
 CodeBook.md: information about raw and tidy data set and elaboration made to transform them
+
 README.md: this file
+
 run_analysis.R: R script to transform raw data set in a tidy one
+
+LICENSE.md: license terms for text and code
+
+Tidy Data File: sensor_avg_by_act_sub.txt
+
 
 How to create the tidy data set
 
