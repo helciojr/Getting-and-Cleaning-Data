@@ -42,13 +42,5 @@ LICENSE.md: license terms for text and code
 Tidy Data File: sensor_avg_by_act_sub.txt
 
 
-How to create the tidy data set
-
-1. clone this repository
-2. download compressed raw data
-3. unzip raw data and copy the directory UCI HAR Dataset to the cloned repository root directory
-4. open a R console and set the working directory to the repository root (use setwd())
-5. source run_analisys.R script (it requires the plyr package): source('run_analysis.R')
-In the repository root directory you find the file sensor_avg_by_act_sub.txt with the tidy data set.
 
 
